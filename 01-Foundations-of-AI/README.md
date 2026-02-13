@@ -46,7 +46,7 @@ It’s like a digital best friend that learns what you like.
 
 There are two main types of AI:
 
-## 1️⃣ Narrow AI (Weak AI)
+## 1 Narrow AI (Weak AI)
 
 - Designed for one specific task
 - Cannot perform outside its domain
@@ -63,7 +63,7 @@ Examples in real life:
 
 ---
 
-## 2️⃣ General AI (Strong AI)
+## 2 General AI (Strong AI)
 
 - Can perform multiple tasks like a human
 - Learns and adapts across domains
@@ -181,7 +181,7 @@ Here are the reasons:
 
 ---
 
-## 1️⃣ Data Explosion
+## 1 Data Explosion
 
 We generate massive amounts of data daily:
 - Social media
@@ -195,7 +195,7 @@ More data = smarter AI.
 
 ---
 
-## 2️⃣ Computing Power
+## 2 Computing Power
 
 Modern GPUs and cloud computing allow:
 - Faster training
@@ -206,7 +206,7 @@ What took months now takes hours or minutes.
 
 ---
 
-## 3️⃣ Better Algorithms
+## 3 Better Algorithms
 
 Breakthroughs in:
 - Machine Learning
@@ -217,7 +217,7 @@ Models are now more efficient and powerful.
 
 ---
 
-## 4️⃣ Accessibility
+## 4 Accessibility
 
 You no longer need a supercomputer.
 
@@ -230,7 +230,7 @@ AI is democratized.
 
 ---
 
-## 5️⃣ Industry Adoption
+## 5 Industry Adoption
 
 Healthcare, finance, retail, manufacturing —
 Everyone wants AI.
@@ -241,7 +241,7 @@ Enhances customer experience.
 
 ---
 
-## 6️⃣ Investment & Entrepreneurship
+## 6 Investment & Entrepreneurship
 
 Billions of dollars are being invested into AI startups.
 
