@@ -9,7 +9,7 @@ No technical background required.
 
 ---
 
-# What is Artificial Intelligence? (Explained Like You're 18)
+# What is Artificial Intelligence? 
 
 Artificial Intelligence (AI) is about creating machines that can **think, learn, and make decisions** in ways that resemble human intelligence.
 
