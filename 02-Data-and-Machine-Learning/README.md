@@ -292,7 +292,3 @@ The model learns how these features influence price based on historical examples
 2. Which of that data is structured vs unstructured?
 3. If you wanted to build a prediction system, what features would matter most?
 4. Where do you see ethical concerns in how data is collected or used?
-
----
-
-Next, we will go deeper into Machine Learning types and how models learn patterns from data.
