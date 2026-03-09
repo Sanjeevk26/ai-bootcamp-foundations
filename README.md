@@ -170,7 +170,3 @@ Just like understanding the internet in 2005.
 
 ---
 
-
-
-# Repository Structure
-
